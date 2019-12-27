@@ -1,0 +1,84 @@
+[
+  {
+    "inp.bsn": "123456789",
+    "geboortedatum": "19010203",
+    "inp.geboorteplaats": "Delft",
+    "verblijfsadres": {
+      "aoa.postcode": "1111AA",
+      "aoa.huisnummer": "1",
+      "aoa.huisletter": "a"
+    },
+    "ouder1": {
+      "inp.bsn": "223456789"
+    },
+    "ouder2": {
+      "inp.bsn": "323456789"
+    }
+  },
+  {
+    "inp.bsn": "423456789",
+    "geboortedatum": "19020203",
+    "inp.geboorteplaats": "Veenendaal",
+    "verblijfsadres": {
+      "aoa.postcode": "2222AA",
+      "aoa.huisnummer": "2",
+      "aoa.huisletter": "b"
+    },
+    "ouder1": {
+      "inp.bsn": "523456789"
+    },
+    "ouder2": {
+      "inp.bsn": "623456789"
+    }
+  },
+  {
+    "inp.bsn": "723456789",
+    "geboortedatum": "19030203",
+    "inp.geboorteplaats": "'s-Gravenhage'",
+    "verblijfsadres": {
+      "aoa.postcode": "3333AA",
+      "aoa.huisnummer": "3",
+      "aoa.huisletter": "c",
+      "aoa.huisnummertoevoeging": "2"
+    },
+    "ouder1": {
+      "inp.bsn": "823456789"
+    },
+    "ouder2": {
+      "inp.bsn": "923456789"
+    }
+  },
+  {
+    "inp.bsn": "113456789",
+    "geboortedatum": "19040203",
+    "inp.geboorteplaats": "Rotterdam",
+    "verblijfsadres": {
+      "aoa.postcode": "4444AA",
+      "aoa.huisnummer": "4",
+      "aoa.huisletter": "d",
+      "aoa.huisnummertoevoeging": "1"
+    },
+    "ouder1": {
+      "inp.bsn": "233456789"
+    },
+    "ouder2": {
+      "inp.bsn": "343456789"
+    }
+  },
+  {
+    "inp.bsn": "153456789",
+    "geboortedatum": "19050203",
+    "inp.geboorteplaats": "Utrecht",
+    "verblijfsadres": {
+      "aoa.postcode": "5555AA",
+      "aoa.huisnummer": "5",
+      "aoa.huisletter": "e"
+    },
+    "ouder1": {
+      "inp.bsn": "263456789"
+    },
+    "ouder2": {
+      "inp.bsn": "373456789"
+    }
+  }
+]
