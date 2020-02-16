@@ -18,7 +18,7 @@ public class Config {
     private Config() {
         Configuration configuration = new Configuration (Configuration.VERSION_2_3_29);
         try {
-            configuration.setDirectoryForTemplateLoading (new File ("src\\main\\resources"));
+            configuration.setDirectoryForTemplateLoading (new File ("src/main/resources"));
             configuration.setDefaultEncoding ("UTF-8");
             configuration.setTemplateExceptionHandler (TemplateExceptionHandler.RETHROW_HANDLER);
             configuration.setLogTemplateExceptions (false);
